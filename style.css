@@ -3,6 +3,15 @@ body{
     width: 100%;
     background: #fdfdfd;
 }
+.circel{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: -60px;
+    border-radius: 100%;
+    background: #28c7fa;
+}
 h1{
     font-size: 40px;
     font-weight: 400;
