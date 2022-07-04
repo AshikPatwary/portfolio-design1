@@ -6,6 +6,7 @@ body{
 h1{
     font-size: 40px;
     font-weight: 400;
+    user-select: none;
 }
 .ex-cv{
     color: #ff1f5a;
@@ -16,6 +17,7 @@ section{
 .content{
     width: 50%;
     padding: 40px;
+    user-select: none;
 }
 
 .container img{
@@ -24,6 +26,7 @@ section{
     padding: 80px;
     margin-top: 50px;
     border-radius: 100%;
+
 } 
 p{
     text-align: justify;
@@ -37,4 +40,5 @@ p{
     background: #22d1ee;
     margin-top: 10px;
     transform: 0.5s;
+    font-weight: bold;
 }
