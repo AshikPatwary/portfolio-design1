@@ -1,4 +1,6 @@
 body{
+    margin: 0;
+    padding: 0;
     height: 100vh;
     width: 100%;
     background: #fdfdfd;
@@ -11,7 +13,7 @@ body{
     left: -50px;
     overflow: hidden;
     border-radius: 100%;
-    background: #28c7fa;
+    background: #ff1f5a;
 }
 h1{
     font-size: 40px;
