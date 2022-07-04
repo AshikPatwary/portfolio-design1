@@ -4,7 +4,7 @@ body{
     background: #fdfdfd;
 }
 h1{
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
 }
 .ex-cv{
@@ -15,10 +15,26 @@ section{
 }
 .content{
     width: 50%;
+    padding: 40px;
 }
+
 .container img{
-    width: 70%;
-    padding-left: 80px;
-    margin-top: 55px;
-    border-radius: 50%;
+    height: 50%;
+    width: 50%;
+    padding: 80px;
+    margin-top: 50px;
+    border-radius: 100%;
+} 
+p{
+    text-align: justify;
+}
+.btn{
+    padding: 10px;
+    text-decoration: none;
+    color: #FFF;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #22d1ee;
+    margin-top: 10px;
+    transform: 0.5s;
 }
