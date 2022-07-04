@@ -23,7 +23,7 @@ h1{
 .ex-cv{
     color: #ff1f5a;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 50px;
 }
