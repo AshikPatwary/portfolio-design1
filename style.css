@@ -10,3 +10,15 @@ h1{
 .ex-cv{
     color: #ff1f5a;
 }
+section{
+    display: flex;
+}
+.content{
+    width: 50%;
+}
+.container img{
+    width: 70%;
+    padding-left: 80px;
+    margin-top: 55px;
+    border-radius: 50%;
+}
